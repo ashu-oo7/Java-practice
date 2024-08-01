@@ -1,5 +1,7 @@
 interface automobiles{
     public void add_gear(int val);
+
+
 }
 class car implements automobiles{
     int gear = 0;
